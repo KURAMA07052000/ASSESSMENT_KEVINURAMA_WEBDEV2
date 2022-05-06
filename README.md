@@ -14,23 +14,23 @@
 
 3. Install dependencies using following command lines (also ensure you have downloaded node.js to your computer):
 
-   npm i
+       npm i
    
  or:
  
-  npm install express
+      npm install express
 
-   npm install nedb --save 
+       npm install nedb --save 
 
-   npm i mustache-express
+       npm i mustache-express
 
-   npm install bcrypt
+       npm install bcrypt
 
-   install jsonwebtoken 
+       install jsonwebtoken 
 
-   install dotenv
+       install dotenv
 
-   install cookie-parser
+       install cookie-parser
 
 4. in terminal enter this commandline to run code:
 
