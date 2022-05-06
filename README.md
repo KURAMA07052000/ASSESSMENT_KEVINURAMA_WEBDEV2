@@ -67,6 +67,10 @@ I changed all my css to client-side from server-side. All the images do not load
 
    https://webdev2-kevinurama.herokuapp.com/login
    
+       username: kevin.urama@gmail.com
+       
+       password: 123
+   
  
 
 
