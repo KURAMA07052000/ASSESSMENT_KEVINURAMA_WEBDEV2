@@ -56,7 +56,8 @@
 
 ------------------------------------------------------use of deployed version------------------------------------------------------------
 
-The deployed version doesn't load the css so there will be an additional video submitted to show the proper webpage
+The deployed version doesn't load the css so there will be an additional video submitted to show the proper webpage. For the deployed version
+I changed all my css to client-side from server-side. All the images do not load as well
 
 1. for user open link 
    
