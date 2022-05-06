@@ -14,19 +14,7 @@
 
 3. Install dependencies using following command lines (also ensure you have downloaded node.js to your computer):
 
-   npm install express
-
-   npm install nedb --save 
-
-   npm i mustache-express
-
-   npm install bcrypt
-
-   install jsonwebtoken 
-
-   install dotenv
-
-   install cookie-parser
+   npm i
 
 4. in terminal enter this commandline to run code:
 
@@ -68,7 +56,17 @@
 
 ------------------------------------------------------use of deployed version------------------------------------------------------------
 
+The deployed version doesn't load the css so there will be an additional video submitted to show the proper webpage
 
+1. for user open link 
+   
+   https://webdev2-kevinurama.herokuapp.com/
+   
+2. for admin open link
+
+   https://webdev2-kevinurama.herokuapp.com/login
+   
+ 
 
 
 ----------------------------------------------------------------end----------------------------------------------------------------------
